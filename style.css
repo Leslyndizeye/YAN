@@ -253,6 +253,15 @@ nav .links a:hover::after{
     text-align: justify;
     
 }
+.solutions .join{
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border: 1px solid white;
+    margin: 20px;
+    border-radius: 20px;
+}
 .get{
     width: 100%;
     /* height: 100vh; */
